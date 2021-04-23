@@ -18,6 +18,7 @@
 - Ux Design/Prototyping
   - Figma, JustinMind
 - Visual Studio Code (Live Share for collaboration)
+- Git
 
 
 **Contact me:**
