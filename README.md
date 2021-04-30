@@ -9,7 +9,7 @@
 - MySql/MariaDB
 - JavaScript
 - HTML/HTML5
-- CSS/LESS
+- CSS/LESS/SCSS
 
 
 **Tools:**
