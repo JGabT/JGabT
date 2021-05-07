@@ -1,5 +1,5 @@
 - 🤔 Contributing on interesting repositories 
-- 🖊 Learning C++, C#, Go, Kotlin
+- 🖊 Learning C++, Go, Kotlin
 
 
 **Languages:**
@@ -10,7 +10,7 @@
 - JavaScript
 - HTML/HTML5
 - CSS/LESS/SCSS
-
+- C#
 
 **Tools:**
 - Linux
